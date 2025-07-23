@@ -1,4 +1,4 @@
-# 🛡️ Projeto Acordo Seguro
+# 🛡️ Projeto Para Demonstracao CI/CD
 
 Um sistema moderno desenvolvido em **Java**, com infraestrutura baseada em **Docker**, automação de pipelines via **GitHub Actions**, deploy completo em **AWS** e cobertura de testes com **JUnit**. Este projeto entrega CI/CD completo com qualidade, segurança e escalabilidade.
 
